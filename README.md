@@ -1,6 +1,6 @@
 # Sabid
 
-Hack Cameras
+Hack Camera
 
 <h3> MD Towfik Afridi  Command : </h3>
 
@@ -8,13 +8,13 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/mdtowfikafridi/Cam-Hackers
+* git clone https://github.com/mdtowfikafridi/sabid-cam.hack
 
 * pip3 install requests
 
 * pip3 install colorama
 
-* cd Cam-Hackers
+* cd sabid-cam.hack
 
 * python3 sabid-cam.py
 
