@@ -4,7 +4,7 @@ Hack Camera
 
 <h3> MD Towfik Afridi  Command : </h3>
 
-* apt-get install python3
+* apt-get install python
 
 * apt-get install git
 
