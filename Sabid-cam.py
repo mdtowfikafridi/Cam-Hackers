@@ -5,7 +5,8 @@
 import requests, re , colorama
 colorama.init()
 print("""
-\033[1;31m\033[1;37m     .,,uod8B8bou,,.
+\033[1;31m\033[1;37m     
+                           .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
          ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
          !...:!TVBBBRPFT||||||||||!!^^""'   ||||
